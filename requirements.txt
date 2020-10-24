@@ -3,4 +3,4 @@ numpy
 sklearn
 pandas
 ipywidgets==7.5.1
-IPython.display
+
