@@ -7,6 +7,10 @@ There are a lot of ways to deploy and scale ML applications today (this is both 
 
 This repo current covers Part 1 of the workshop
 
+## To follow the lecture: 
+
+Clone this repository locally, then launch [ML Models in Production Workshop.ipynb](https://github.com/stbiadmin/USCProdML/blob/main/ML%20Models%20in%20Production%20Workshop%20-%20USCMSBA.ipynb) in Jupyter.
+
 
 ## To run the demo: 
 
